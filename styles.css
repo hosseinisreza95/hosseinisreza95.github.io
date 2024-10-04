@@ -13,7 +13,7 @@ body {
 
 header {
     background-color: #333;
-    padding: 10px 0;
+    padding: 10px;
     text-align: center;
 }
 
@@ -22,38 +22,33 @@ header nav ul {
 }
 
 header nav ul li {
-    display: inline-block;
-    margin: 0 20px;
+    display: inline;
+    margin-right: 20px;
 }
 
 header nav ul li a {
-    color: #fff;
+    color: white;
     text-decoration: none;
     font-size: 18px;
 }
 
 #intro {
     height: 100vh;
-    background: url('background.jpg') no-repeat center center/cover;
+    background-color: #333;
+    color: white;
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     text-align: center;
 }
 
-.intro-text {
-    background: rgba(0, 0, 0, 0.5);
-    padding: 20px;
-    color: #fff;
-}
-
-h1 {
+.intro-text h1 {
     font-size: 48px;
     margin-bottom: 20px;
 }
 
-p {
-    font-size: 20px;
+.intro-text p {
+    font-size: 24px;
 }
 
 section {
@@ -66,31 +61,13 @@ h2 {
     margin-bottom: 20px;
 }
 
-.project-list {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-}
-
 .project-item {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
 }
 
 footer {
     background-color: #333;
-    color: #fff;
+    color: white;
     padding: 20px;
     text-align: center;
-}
-
-footer p {
-    margin: 0;
-}
-
-a {
-    color: #00f;
-    text-decoration: none;
 }
