@@ -771,7 +771,7 @@ main {
  * education and experience 
  */
 
-.timeline { margin-bottom: 30px; }
+.timeline { margin-bottom: 30px;}
 
 .timeline .title-wrapper {
   display: flex;
@@ -827,6 +827,7 @@ main {
   color: var(--light-gray);
   font-weight: var(--fw-300);
   line-height: 1.6;
+	 list-style-type: disc;
 }
 
 
@@ -1877,6 +1878,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 * RESUME
 	 */
 
-  .timeline-text { max-width: 700px; list-style-type: disc;}
+  .timeline-text { max-width: 700px;}
 
 }
