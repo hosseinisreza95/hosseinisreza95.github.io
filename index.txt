@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Reza HOSSEINI
+Reza HOSSEINI
+Data Scientist
 
 Show Contacts
 
 Email
-richard@example.com
+hosseinisreza95@gmail.com
 
 Phone
-+1 (213) 352-2795
++33 6 58 96 51 95
 
 Birthday
-June 23, 1982
+Sep 10, 1995
 
 Location
-Sacramento, California, USA
+Lyon, France
 
 # navbar
 
